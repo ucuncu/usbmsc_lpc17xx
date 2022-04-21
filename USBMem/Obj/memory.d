@@ -1,0 +1,11 @@
+.\obj\memory.o: memory.c
+.\obj\memory.o: ..\Common\inc\LPC17xx.h
+.\obj\memory.o: ..\Common\inc\core_cm3.h
+.\obj\memory.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\memory.o: ..\Common\inc\system_LPC17xx.h
+.\obj\memory.o: ..\Common\inc\type.h
+.\obj\memory.o: usb.h
+.\obj\memory.o: usbcfg.h
+.\obj\memory.o: usbhw.h
+.\obj\memory.o: mscuser.h
+.\obj\memory.o: memory.h

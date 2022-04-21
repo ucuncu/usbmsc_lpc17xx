@@ -1,0 +1,10 @@
+.\obj\mscuser.o: mscuser.c
+.\obj\mscuser.o: ..\Common\inc\type.h
+.\obj\mscuser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\mscuser.o: usb.h
+.\obj\mscuser.o: msc.h
+.\obj\mscuser.o: usbcfg.h
+.\obj\mscuser.o: usbhw.h
+.\obj\mscuser.o: usbcore.h
+.\obj\mscuser.o: mscuser.h
+.\obj\mscuser.o: memory.h

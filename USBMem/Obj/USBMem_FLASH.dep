@@ -1,0 +1,72 @@
+Dependencies for Project 'USBMem', Target 'FLASH': (DO NOT MODIFY !)
+F (.\usbcore.c)(0x5D413642)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\usbcore.o --omf_browse .\obj\usbcore.crf --depend .\obj\usbcore.d)
+I (..\Common\inc\type.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (usb.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbhw.h)(0x5D412586)
+I (usbcore.h)(0x5D412586)
+I (usbdesc.h)(0x5D412586)
+I (usbuser.h)(0x5D4124D5)
+I (msc.h)(0x5D412586)
+I (mscuser.h)(0x5D412586)
+F (.\usbdesc.c)(0x5D413778)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\usbdesc.o --omf_browse .\obj\usbdesc.crf --depend .\obj\usbdesc.d)
+I (..\Common\inc\type.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (usb.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbdesc.h)(0x5D412586)
+I (msc.h)(0x5D412586)
+F (.\usbhw.c)(0x5D413480)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\usbhw.o --omf_browse .\obj\usbhw.crf --depend .\obj\usbhw.d)
+I (..\Common\inc\LPC17xx.h)(0x51801F35)
+I (..\Common\inc\core_cm3.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (..\Common\inc\system_LPC17xx.h)(0x51801F35)
+I (..\Common\inc\type.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F137C)
+I (usb.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbreg.h)(0x51801F35)
+I (usbhw.h)(0x5D412586)
+I (usbcore.h)(0x5D412586)
+I (usbuser.h)(0x5D4124D5)
+F (.\usbuser.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\usbuser.o --omf_browse .\obj\usbuser.crf --depend .\obj\usbuser.d)
+I (..\Common\inc\type.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (usb.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbhw.h)(0x5D412586)
+I (usbcore.h)(0x5D412586)
+I (usbuser.h)(0x5D4124D5)
+I (mscuser.h)(0x5D412586)
+I (memory.h)(0x51801F35)
+F (.\mscuser.c)(0x5D413920)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\mscuser.o --omf_browse .\obj\mscuser.crf --depend .\obj\mscuser.d)
+I (..\Common\inc\type.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (usb.h)(0x5D412586)
+I (msc.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbhw.h)(0x5D412586)
+I (usbcore.h)(0x5D412586)
+I (mscuser.h)(0x5D412586)
+I (memory.h)(0x51801F35)
+F (.\memory.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\memory.o --omf_browse .\obj\memory.crf --depend .\obj\memory.d)
+I (..\Common\inc\LPC17xx.h)(0x51801F35)
+I (..\Common\inc\core_cm3.h)(0x51801F35)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (..\Common\inc\system_LPC17xx.h)(0x51801F35)
+I (..\Common\inc\type.h)(0x51801F35)
+I (usb.h)(0x5D412586)
+I (usbcfg.h)(0x5D4138D6)
+I (usbhw.h)(0x5D412586)
+I (mscuser.h)(0x5D412586)
+I (memory.h)(0x51801F35)
+F (..\common\src\startup_LPC17xx.s)(0x51801F35)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\DiskImg.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\diskimg.o --omf_browse .\obj\diskimg.crf --depend .\obj\diskimg.d)
+I (memory.h)(0x51801F35)
+F (..\common\src\system_LPC17xx.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I . -I ..\Common\inc-I.\RTE\_FLASH-IC:\Users\Hamit\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Hamit\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CE491C0)
+I (..\Common\inc\LPC17xx.h)(0x51801F35)
+I (..\Common\inc\core_cm3.h)(0x51801F35)
+I (..\Common\inc\system_LPC17xx.h)(0x51801F35)
+F (.\Abstract.txt)(0x5D41241E)()
